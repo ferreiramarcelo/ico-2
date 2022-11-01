@@ -1,4 +1,4 @@
-anyconfig==0.9.3
+anyconfig==0.10.0
 argh==0.26.2
 bitcoin==1.1.42
 certifi==2017.7.27.1
