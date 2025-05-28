@@ -41,3 +41,4 @@ urllib3==1.22
 watchdog==0.8.3
 web3==3.11.1
 Werkzeug==0.12.2
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
