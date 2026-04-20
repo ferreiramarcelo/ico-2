@@ -1,4 +1,4 @@
-anyconfig==0.9.3
+anyconfig==0.10.0
 argh==0.26.2
 asn1crypto==0.24.0
 attrdict==2.0.0
