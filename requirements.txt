@@ -59,3 +59,4 @@ watchdog==0.8.3
 web3==4.8.2
 websockets==6.0
 Werkzeug==0.12.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
